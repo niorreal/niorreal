@@ -1,7 +1,7 @@
 # Cicis-profile
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Just a guy trying to learn</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Everything below here is still being learned:</h3>
 <p align="left">
 </p>
 

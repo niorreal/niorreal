@@ -1,5 +1,5 @@
 # Cicis-profile
-<h3 align="center">Just a guy trying to learn</h3>
+<h3 align="center">Just a guy trying to learn coding</h3>
 
 <h3 align="left">Everything below here is still being learned:</h3>
 <p align="left">
